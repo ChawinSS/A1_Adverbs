@@ -31,12 +31,12 @@ const quizDataFromFile = [
   },
   {
     "question": "gern(e)",
-    "correct": "…",
+    "correct": "gladly",
     "choices": [
       "not",
       "perhaps / may(be)",
       "often",
-      "…"
+      "gladly"
     ]
   },
   {
@@ -81,22 +81,12 @@ const quizDataFromFile = [
   },
   {
     "question": "nicht",
-    "correct": "not",
+    "correct": "not/no",
     "choices": [
-      "not",
+      "not/no",
       "today",
       "often",
       "immediately"
-    ]
-  },
-  {
-    "question": "nicht",
-    "correct": "no",
-    "choices": [
-      "not",
-      "no",
-      "often",
-      "…"
     ]
   },
   {
